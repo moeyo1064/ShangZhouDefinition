@@ -1,0 +1,7 @@
+site_name: 商周名词百科
+theme:
+  name: "material"
+nav:
+  - 导览: "index.md"
+  - 政权职位:
+      - 太史寮: "太史寮.md"
